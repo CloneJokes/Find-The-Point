@@ -1,0 +1,6 @@
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\FindThePoint\FindThePoint\bin\Debug\FindThePoint.exe.config
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\FindThePoint\FindThePoint\bin\Debug\FindThePoint.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\FindThePoint\FindThePoint\bin\Debug\FindThePoint.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\FindThePoint\FindThePoint\obj\Debug\FindThePoint.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\FindThePoint\FindThePoint\obj\Debug\FindThePoint.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\FindThePoint\FindThePoint\obj\Debug\FindThePoint.pdb
